@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CarsData/1.0.0": {
+        "dependencies": {
+          "CarsCore": "1.0.0"
+        },
+        "runtime": {
+          "CarsData.dll": {}
+        }
+      },
+      "CarsCore/1.0.0": {
+        "runtime": {
+          "CarsCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarsData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarsCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

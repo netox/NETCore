@@ -1,0 +1,8 @@
+C:\Users\netox\source\repos\Cars\CarsCore\bin\Debug\netcoreapp3.0\CarsCore.deps.json
+C:\Users\netox\source\repos\Cars\CarsCore\bin\Debug\netcoreapp3.0\CarsCore.dll
+C:\Users\netox\source\repos\Cars\CarsCore\bin\Debug\netcoreapp3.0\CarsCore.pdb
+C:\Users\netox\source\repos\Cars\CarsCore\obj\Debug\netcoreapp3.0\CarsCore.AssemblyInfoInputs.cache
+C:\Users\netox\source\repos\Cars\CarsCore\obj\Debug\netcoreapp3.0\CarsCore.AssemblyInfo.cs
+C:\Users\netox\source\repos\Cars\CarsCore\obj\Debug\netcoreapp3.0\CarsCore.dll
+C:\Users\netox\source\repos\Cars\CarsCore\obj\Debug\netcoreapp3.0\CarsCore.pdb
+C:\Users\netox\source\repos\Cars\CarsCore\obj\Debug\netcoreapp3.0\CarsCore.csprojAssemblyReference.cache

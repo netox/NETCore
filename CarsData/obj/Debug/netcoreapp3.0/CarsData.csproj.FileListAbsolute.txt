@@ -1,0 +1,11 @@
+C:\Users\netox\source\repos\Cars\CarsData\bin\Debug\netcoreapp3.0\CarsData.deps.json
+C:\Users\netox\source\repos\Cars\CarsData\bin\Debug\netcoreapp3.0\CarsData.dll
+C:\Users\netox\source\repos\Cars\CarsData\bin\Debug\netcoreapp3.0\CarsData.pdb
+C:\Users\netox\source\repos\Cars\CarsData\bin\Debug\netcoreapp3.0\CarsCore.dll
+C:\Users\netox\source\repos\Cars\CarsData\bin\Debug\netcoreapp3.0\CarsCore.pdb
+C:\Users\netox\source\repos\Cars\CarsData\obj\Debug\netcoreapp3.0\CarsData.csprojAssemblyReference.cache
+C:\Users\netox\source\repos\Cars\CarsData\obj\Debug\netcoreapp3.0\CarsData.AssemblyInfoInputs.cache
+C:\Users\netox\source\repos\Cars\CarsData\obj\Debug\netcoreapp3.0\CarsData.AssemblyInfo.cs
+C:\Users\netox\source\repos\Cars\CarsData\obj\Debug\netcoreapp3.0\CarsData.csproj.CopyComplete
+C:\Users\netox\source\repos\Cars\CarsData\obj\Debug\netcoreapp3.0\CarsData.dll
+C:\Users\netox\source\repos\Cars\CarsData\obj\Debug\netcoreapp3.0\CarsData.pdb

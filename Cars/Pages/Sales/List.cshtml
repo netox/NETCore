@@ -1,0 +1,37 @@
+﻿@page
+@model Cars.Pages.Sales.ListModel
+@{
+    ViewData["Title"] = "List";
+}
+
+<h2>Cars</h2>
+<form method="get">
+    <div class="input-group">
+        <input type="search" class="form-control" asp-for="SearchTerm" />
+        <div class="input-group-append">
+            <button class="btn btn-secondary form-control">Search</button>
+        </div>
+    </div>
+</form>
+
+
+<table class="table">
+    @foreach (var car in Model.Cars)
+    {
+    <tr>
+        <td>@car.Id</td>
+        <td>@car.Name</td>
+        <td>@car.CarBrand</td>
+        <td>@car.CarColor</td>
+        <td>
+            <a class="btn btn-secondary btn-lg" asp-page="./Detail" asp-route-carId="@car.Id">Ver</a>
+        </td>
+        <td>
+            <a class="btn btn-warning btn-lg" asp-page="./Edit" asp-route-carId="@car.Id">Editar</a>
+        </td>
+    </tr>
+    }
+</table>
+
+<a asp-page="./Edit" class="btn btn-primary">Add New</a>
+

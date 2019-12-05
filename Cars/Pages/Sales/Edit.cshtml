@@ -1,0 +1,23 @@
+﻿@page "{carId:int?}"
+@model Cars.Pages.Sales.EditModel
+@{
+}
+
+<h1>Editing @Model.Car.Name</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Car.Id" />
+    <div class="form-group">
+        <label asp-for="Car.Name"></label>
+        <input asp-for="Car.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Car.CarColor"></label>
+        <select asp-for="Car.CarColor" class="form-control" asp-items="Model.Colors"></select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Car.CarBrand"></label>
+        <select asp-for="Car.CarBrand" class="form-control" asp-items="Model.Brands"></select>
+    </div>
+    <button type="submit" class="btn btn-primary btn-lg">Save</button>
+</form>
